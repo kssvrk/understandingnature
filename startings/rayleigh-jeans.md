@@ -52,7 +52,7 @@ and the right moving particles would be
 
 $$N_{right}=\frac{v_{x} \triangle t N}{2L}$$
 
-Now $ N_{right} $ number of particles will hit the right wall and change their velocity from $ v_{x} $ to $ - v_{x} $ , so the total net change in momentum on the right wall hitting particles $ \triangle p $ is
+Now $ N_{right} $ number of particles will hit the right wall and change their velocity from $v_{x} $ to $ - v_{x}$ , so the total net change in momentum on the right wall hitting particles $ \triangle p $ is
 
 $$ \triangle p = m 2 v_{x} N_{right} $$
  Substituting for $ N_{right} $ we get
