@@ -31,7 +31,7 @@ There is a reason why we call black bodys as kirchoff's black bodies, it's becau
 
 In 1864, Irish physicist John Tyndall did measurements of the infrared emission by the platinum filament, and the corresponding
 colour of filament.In Tyndall’s measurements, Stefan noticed that by increasing the temperature of platinum filament from 798K to 1473K
-(1.845 times), radiation was increased by 11.7 times (approximate to ($1.845^{4}$). So he empirically stated that the energy emitted by a black-body per unit area per second is proportional to the
+(1.845 times), radiation was increased by 11.7 times (approximate to ( $1.845^{4}$ ). So he empirically stated that the energy emitted by a black-body per unit area per second is proportional to the
 fourth power of the absolute temperature. [Ref-1 : Stefan](#reference)
 
 $$ E \propto T^{4} $$
@@ -52,7 +52,7 @@ and the right moving particles would be
 
 $$N_{right}=\frac{v_{x} \triangle t N}{2L}$$
 
-Now $ N_{right} $ number of particles will hit the right wall and change their velocity from $v_{x}$ to $- v_{x}$ , so the total net change in momentum on the right wall hitting particles $ \triangle p $ is
+Now $N_{right}$ number of particles will hit the right wall and change their velocity from $v_{x}$ to $- v_{x}$ , so the total net change in momentum on the right wall hitting particles $\triangle p$ is
 
 $$ \triangle p = m 2 v_{x} N_{right} $$
  Substituting for $ N_{right} $ we get
@@ -62,7 +62,7 @@ The rate of change of momentum is nothing but the force and force per unit area 
 
 $$ P = \frac {F}{A}=  \frac {\triangle p}{\triangle t A} = \frac {m v_{x}^{2} N}{L^{3}} $$
 
-as Area of the right wall is $ L^{2} $ for a cube. Now substituting V ( volume ) in place of $ L^{3} $ , we get
+as Area of the right wall is $L^{2}$ for a cube. Now substituting V ( volume ) in place of $L^{3}$ , we get
 
 $$ P = \frac {m v_{x}^{2} N}{V} $$
 
