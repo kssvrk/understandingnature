@@ -5,6 +5,7 @@
  - Ideal Gas Law : https://www.tec-science.com/thermodynamics/thermodynamic-processes-in-closed-systems/ideal-gas-law/
  - Kinetic theory of gasses : https://www.tec-science.com/thermodynamics/kinetic-theory-of-gases/pressure-and-temperature/
  - Stefan Boltzmann law : https://www.tec-science.com/thermodynamics/temperature/thermodynamic-derivation-of-the-stefan-boltzmann-law/
+ - Derivation of Plancks law : https://edisciplinas.usp.br/pluginfile.php/48089/course/section/16461/qsp_chapter10-plank.pdf
 
 ## Rayleigh jeans law
 
