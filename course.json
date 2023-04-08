@@ -1,0 +1,16 @@
+{
+    "Title":"Remote Sensing Science",
+    "Description" : "This course covers extensively the science and techniques behind Satellite and Aerial platform Remote sensing",
+    "Topics":[
+        {
+            "Title":"Optical Remote Sensing",
+            "Description" : "A Comprehensive coverage of Optical satellites , imagery , data and techniques",
+            "Link":"https://raw.githubusercontent.com/kssvrk/understandingnature/main/startings/rayleigh-jeans.md"
+        },
+        {
+            "Title":"Microwave Remote Sensing",
+            "Description" : "A Comprehensive coverage of Microwave satellites , imagery , data and techniques",
+            "Link":"https://raw.githubusercontent.com/kssvrk/understandingnature/main/startings/rayleigh-jeans.md"
+        }
+    ]
+}
